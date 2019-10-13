@@ -1,5 +1,6 @@
 # HackerRank
 Practice Problems solved on HakerRank
 
-#Author
+## Author: ##
+
 Nimra Sharnez
